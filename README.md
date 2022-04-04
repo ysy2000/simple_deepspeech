@@ -14,5 +14,6 @@
 
 
 ### Source
-This mic_vad_straming folder is from https://github.com/mozilla/DeepSpeech-examples.
-It is perfectly same file. 
+ - This mic_vad_straming folder is from https://github.com/mozilla/DeepSpeech-examples. It is perfectly same file. 
+ - In my case, the version was selected as follows.
+![image](https://user-images.githubusercontent.com/86301325/161478680-539dea7e-83fc-4227-ac9c-d849b692e400.png)
